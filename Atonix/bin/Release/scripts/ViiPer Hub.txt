@@ -1,0 +1,7 @@
+--ViiPer GUI
+
+loadstring(game:HttpGet('https://pastebin.com/raw/Pr7n6inR', true))()
+
+--Made by:
+--Gloozzy
+--Skyz

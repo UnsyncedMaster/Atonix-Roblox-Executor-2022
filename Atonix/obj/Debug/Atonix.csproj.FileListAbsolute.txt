@@ -1,0 +1,201 @@
+C:\Users\Nam3\source\repos\Atonix\Atonix\bin\Debug\Atonix.exe.config
+C:\Users\Nam3\source\repos\Atonix\Atonix\bin\Debug\Atonix.exe
+C:\Users\Nam3\source\repos\Atonix\Atonix\bin\Debug\Atonix.pdb
+C:\Users\Nam3\source\repos\Atonix\Atonix\obj\Debug\Atonix.csproj.AssemblyReference.cache
+C:\Users\Nam3\source\repos\Atonix\Atonix\obj\Debug\Atonix.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nam3\source\repos\Atonix\Atonix\obj\Debug\Atonix.Properties.Resources.resources
+C:\Users\Nam3\source\repos\Atonix\Atonix\obj\Debug\Atonix.csproj.GenerateResource.cache
+C:\Users\Nam3\source\repos\Atonix\Atonix\obj\Debug\Atonix.csproj.CoreCompileInputs.cache
+C:\Users\Nam3\source\repos\Atonix\Atonix\obj\Debug\Atonix.csproj.CopyComplete
+C:\Users\Nam3\source\repos\Atonix\Atonix\obj\Debug\Atonix.exe
+C:\Users\Nam3\source\repos\Atonix\Atonix\obj\Debug\Atonix.pdb
+C:\Users\Nam3\source\repos\Atonix\Atonix\obj\Debug\Atonix.MainForm.resources
+C:\Users\Nam3\source\repos\Atonix\Atonix\obj\Debug\Atonix.SettingsForm.resources
+C:\Users\Nam3\source\repos\Atonix\Atonix\bin\Debug\DiscordRPC.xml
+C:\Users\Nam3\source\repos\Atonix\Atonix\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nam3\source\repos\Atonix\Atonix\bin\Debug\System.Buffers.xml
+C:\Users\Nam3\source\repos\Atonix\Atonix\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Nam3\source\repos\Atonix\Atonix\bin\Debug\System.Memory.xml
+C:\Users\Nam3\source\repos\Atonix\Atonix\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Nam3\source\repos\Atonix\Atonix\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Nam3\source\repos\Atonix\Atonix\obj\Debug\Atonix.Windows.APISettings.resources
+C:\Users\Nam3\source\repos\Atonix\Atonix\obj\Debug\Atonix.Windows.General.resources
+C:\Users\Nam3\source\repos\Atonix\Atonix\obj\Debug\Atonix.Windows.Monaco.resources
+C:\Users\Nam3\source\repos\Atonix\Atonix\obj\Debug\Atonix.Windows.Other.resources
+C:\Users\Nam3\source\repos\Atonix\Atonix\obj\Debug\Atonix.csproj.Fody.CopyLocal.cache
+C:\Users\Nam3\source\repos\Atonix\Atonix\obj\Debug\Atonix.csproj.Fody.RuntimeCopyLocal.cache
+C:\Users\Nam3\source\repos\Atonix\Atonix\obj\Debug\Atonix.ScriptHub.resources
+C:\Users\Nam3\source\repos\Atonix\Atonix\obj\Debug\Atonix.Loader.resources
+C:\Users\Nam3\source\repos\Atonix\Atonix\obj\Debug\Atonix.Notifications.Notification.resources
+C:\Users\Nam3\Desktop\Atonix\Atonix\bin\Debug\Atonix.exe.config
+C:\Users\Nam3\Desktop\Atonix\Atonix\bin\Debug\Atonix.exe
+C:\Users\Nam3\Desktop\Atonix\Atonix\bin\Debug\Atonix.pdb
+C:\Users\Nam3\Desktop\Atonix\Atonix\bin\Debug\DiscordRPC.xml
+C:\Users\Nam3\Desktop\Atonix\Atonix\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nam3\Desktop\Atonix\Atonix\bin\Debug\System.Buffers.xml
+C:\Users\Nam3\Desktop\Atonix\Atonix\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Nam3\Desktop\Atonix\Atonix\bin\Debug\System.Memory.xml
+C:\Users\Nam3\Desktop\Atonix\Atonix\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Nam3\Desktop\Atonix\Atonix\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Nam3\Desktop\Atonix\Atonix\obj\Debug\Atonix.csproj.AssemblyReference.cache
+C:\Users\Nam3\Desktop\Atonix\Atonix\obj\Debug\Atonix.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nam3\Desktop\Atonix\Atonix\obj\Debug\Atonix.Loader.resources
+C:\Users\Nam3\Desktop\Atonix\Atonix\obj\Debug\Atonix.MainForm.resources
+C:\Users\Nam3\Desktop\Atonix\Atonix\obj\Debug\Atonix.Notifications.Notification.resources
+C:\Users\Nam3\Desktop\Atonix\Atonix\obj\Debug\Atonix.Properties.Resources.resources
+C:\Users\Nam3\Desktop\Atonix\Atonix\obj\Debug\Atonix.ScriptHub.resources
+C:\Users\Nam3\Desktop\Atonix\Atonix\obj\Debug\Atonix.SettingsForm.resources
+C:\Users\Nam3\Desktop\Atonix\Atonix\obj\Debug\Atonix.Windows.APISettings.resources
+C:\Users\Nam3\Desktop\Atonix\Atonix\obj\Debug\Atonix.Windows.General.resources
+C:\Users\Nam3\Desktop\Atonix\Atonix\obj\Debug\Atonix.Windows.Monaco.resources
+C:\Users\Nam3\Desktop\Atonix\Atonix\obj\Debug\Atonix.Windows.Other.resources
+C:\Users\Nam3\Desktop\Atonix\Atonix\obj\Debug\Atonix.csproj.GenerateResource.cache
+C:\Users\Nam3\Desktop\Atonix\Atonix\obj\Debug\Atonix.csproj.CoreCompileInputs.cache
+C:\Users\Nam3\Desktop\Atonix\Atonix\obj\Debug\Atonix.csproj.Fody.CopyLocal.cache
+C:\Users\Nam3\Desktop\Atonix\Atonix\obj\Debug\Atonix.csproj.Fody.RuntimeCopyLocal.cache
+C:\Users\Nam3\Desktop\Atonix\Atonix\obj\Debug\Atonix.csproj.CopyComplete
+C:\Users\Nam3\Desktop\Atonix\Atonix\obj\Debug\Atonix.exe
+C:\Users\Nam3\Desktop\Atonix\Atonix\obj\Debug\Atonix.pdb
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix\Atonix\bin\Debug\Atonix.exe.config
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix\Atonix\bin\Debug\Atonix.exe
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix\Atonix\bin\Debug\Atonix.pdb
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix\Atonix\bin\Debug\DiscordRPC.xml
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix\Atonix\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix\Atonix\bin\Debug\System.Buffers.xml
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix\Atonix\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix\Atonix\bin\Debug\System.Memory.xml
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix\Atonix\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix\Atonix\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix\Atonix\obj\Debug\Atonix.csproj.AssemblyReference.cache
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix\Atonix\obj\Debug\Atonix.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix\Atonix\obj\Debug\Atonix.Loader.resources
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix\Atonix\obj\Debug\Atonix.MainForm.resources
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix\Atonix\obj\Debug\Atonix.Notifications.Notification.resources
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix\Atonix\obj\Debug\Atonix.Properties.Resources.resources
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix\Atonix\obj\Debug\Atonix.ScriptHub.resources
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix\Atonix\obj\Debug\Atonix.SettingsForm.resources
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix\Atonix\obj\Debug\Atonix.Windows.APISettings.resources
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix\Atonix\obj\Debug\Atonix.Windows.General.resources
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix\Atonix\obj\Debug\Atonix.Windows.Monaco.resources
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix\Atonix\obj\Debug\Atonix.Windows.Other.resources
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix\Atonix\obj\Debug\Atonix.csproj.GenerateResource.cache
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix\Atonix\obj\Debug\Atonix.csproj.CoreCompileInputs.cache
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix\Atonix\obj\Debug\Atonix.csproj.Fody.CopyLocal.cache
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix\Atonix\obj\Debug\Atonix.csproj.Fody.RuntimeCopyLocal.cache
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix\Atonix\obj\Debug\Atonix.csproj.CopyComplete
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix\Atonix\obj\Debug\Atonix.exe
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix\Atonix\obj\Debug\Atonix.pdb
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix SRC\Atonix\bin\Debug\Atonix.exe.config
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix SRC\Atonix\bin\Debug\Atonix.exe
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix SRC\Atonix\bin\Debug\Atonix.pdb
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix SRC\Atonix\bin\Debug\DiscordRPC.xml
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix SRC\Atonix\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix SRC\Atonix\bin\Debug\System.Buffers.xml
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix SRC\Atonix\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix SRC\Atonix\bin\Debug\System.Memory.xml
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix SRC\Atonix\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix SRC\Atonix\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix SRC\Atonix\obj\Debug\Atonix.csproj.AssemblyReference.cache
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix SRC\Atonix\obj\Debug\Atonix.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix SRC\Atonix\obj\Debug\Atonix.Loader.resources
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix SRC\Atonix\obj\Debug\Atonix.MainForm.resources
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix SRC\Atonix\obj\Debug\Atonix.Notifications.Notification.resources
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix SRC\Atonix\obj\Debug\Atonix.Properties.Resources.resources
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix SRC\Atonix\obj\Debug\Atonix.ScriptHub.resources
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix SRC\Atonix\obj\Debug\Atonix.SettingsForm.resources
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix SRC\Atonix\obj\Debug\Atonix.Windows.APISettings.resources
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix SRC\Atonix\obj\Debug\Atonix.Windows.General.resources
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix SRC\Atonix\obj\Debug\Atonix.Windows.Monaco.resources
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix SRC\Atonix\obj\Debug\Atonix.Windows.Other.resources
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix SRC\Atonix\obj\Debug\Atonix.csproj.GenerateResource.cache
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix SRC\Atonix\obj\Debug\Atonix.csproj.CoreCompileInputs.cache
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix SRC\Atonix\obj\Debug\Atonix.csproj.Fody.CopyLocal.cache
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix SRC\Atonix\obj\Debug\Atonix.csproj.Fody.RuntimeCopyLocal.cache
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix SRC\Atonix\obj\Debug\Atonix.csproj.CopyComplete
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix SRC\Atonix\obj\Debug\Atonix.exe
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix SRC\Atonix\obj\Debug\Atonix.pdb
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix_SRC\Atonix SRC\Atonix\bin\Debug\Atonix.exe.config
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix_SRC\Atonix SRC\Atonix\bin\Debug\Atonix.exe
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix_SRC\Atonix SRC\Atonix\bin\Debug\Atonix.pdb
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix_SRC\Atonix SRC\Atonix\bin\Debug\DiscordRPC.xml
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix_SRC\Atonix SRC\Atonix\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix_SRC\Atonix SRC\Atonix\bin\Debug\System.Buffers.xml
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix_SRC\Atonix SRC\Atonix\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix_SRC\Atonix SRC\Atonix\bin\Debug\System.Memory.xml
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix_SRC\Atonix SRC\Atonix\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix_SRC\Atonix SRC\Atonix\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix_SRC\Atonix SRC\Atonix\obj\Debug\Atonix.csproj.AssemblyReference.cache
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix_SRC\Atonix SRC\Atonix\obj\Debug\Atonix.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix_SRC\Atonix SRC\Atonix\obj\Debug\Atonix.Loader.resources
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix_SRC\Atonix SRC\Atonix\obj\Debug\Atonix.MainForm.resources
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix_SRC\Atonix SRC\Atonix\obj\Debug\Atonix.Notifications.Notification.resources
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix_SRC\Atonix SRC\Atonix\obj\Debug\Atonix.Properties.Resources.resources
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix_SRC\Atonix SRC\Atonix\obj\Debug\Atonix.ScriptHub.resources
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix_SRC\Atonix SRC\Atonix\obj\Debug\Atonix.SettingsForm.resources
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix_SRC\Atonix SRC\Atonix\obj\Debug\Atonix.Windows.APISettings.resources
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix_SRC\Atonix SRC\Atonix\obj\Debug\Atonix.Windows.General.resources
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix_SRC\Atonix SRC\Atonix\obj\Debug\Atonix.Windows.Monaco.resources
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix_SRC\Atonix SRC\Atonix\obj\Debug\Atonix.Windows.Other.resources
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix_SRC\Atonix SRC\Atonix\obj\Debug\Atonix.csproj.GenerateResource.cache
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix_SRC\Atonix SRC\Atonix\obj\Debug\Atonix.csproj.CoreCompileInputs.cache
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix_SRC\Atonix SRC\Atonix\obj\Debug\Atonix.csproj.Fody.CopyLocal.cache
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix_SRC\Atonix SRC\Atonix\obj\Debug\Atonix.csproj.Fody.RuntimeCopyLocal.cache
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix_SRC\Atonix SRC\Atonix\obj\Debug\Atonix.csproj.CopyComplete
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix_SRC\Atonix SRC\Atonix\obj\Debug\Atonix.exe
+C:\Users\Nam3\Desktop\Atonix Source Codes\Atonix_SRC\Atonix SRC\Atonix\obj\Debug\Atonix.pdb
+C:\Users\ryans\Desktop\Atonix\Atonix Source Codes\Atonix SRC\Atonix SRC\Atonix\bin\Debug\Atonix.exe.config
+C:\Users\ryans\Desktop\Atonix\Atonix Source Codes\Atonix SRC\Atonix SRC\Atonix\bin\Debug\Atonix.exe
+C:\Users\ryans\Desktop\Atonix\Atonix Source Codes\Atonix SRC\Atonix SRC\Atonix\bin\Debug\Atonix.pdb
+C:\Users\ryans\Desktop\Atonix\Atonix Source Codes\Atonix SRC\Atonix SRC\Atonix\bin\Debug\DiscordRPC.xml
+C:\Users\ryans\Desktop\Atonix\Atonix Source Codes\Atonix SRC\Atonix SRC\Atonix\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ryans\Desktop\Atonix\Atonix Source Codes\Atonix SRC\Atonix SRC\Atonix\bin\Debug\System.Buffers.xml
+C:\Users\ryans\Desktop\Atonix\Atonix Source Codes\Atonix SRC\Atonix SRC\Atonix\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ryans\Desktop\Atonix\Atonix Source Codes\Atonix SRC\Atonix SRC\Atonix\bin\Debug\System.Memory.xml
+C:\Users\ryans\Desktop\Atonix\Atonix Source Codes\Atonix SRC\Atonix SRC\Atonix\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ryans\Desktop\Atonix\Atonix Source Codes\Atonix SRC\Atonix SRC\Atonix\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ryans\Desktop\Atonix\Atonix Source Codes\Atonix SRC\Atonix SRC\Atonix\obj\Debug\Atonix.csproj.AssemblyReference.cache
+C:\Users\ryans\Desktop\Atonix\Atonix Source Codes\Atonix SRC\Atonix SRC\Atonix\obj\Debug\Atonix.Loader.resources
+C:\Users\ryans\Desktop\Atonix\Atonix Source Codes\Atonix SRC\Atonix SRC\Atonix\obj\Debug\Atonix.MainForm.resources
+C:\Users\ryans\Desktop\Atonix\Atonix Source Codes\Atonix SRC\Atonix SRC\Atonix\obj\Debug\Atonix.Notifications.Notification.resources
+C:\Users\ryans\Desktop\Atonix\Atonix Source Codes\Atonix SRC\Atonix SRC\Atonix\obj\Debug\Atonix.Properties.Resources.resources
+C:\Users\ryans\Desktop\Atonix\Atonix Source Codes\Atonix SRC\Atonix SRC\Atonix\obj\Debug\Atonix.ScriptHub.resources
+C:\Users\ryans\Desktop\Atonix\Atonix Source Codes\Atonix SRC\Atonix SRC\Atonix\obj\Debug\Atonix.SettingsForm.resources
+C:\Users\ryans\Desktop\Atonix\Atonix Source Codes\Atonix SRC\Atonix SRC\Atonix\obj\Debug\Atonix.Windows.APISettings.resources
+C:\Users\ryans\Desktop\Atonix\Atonix Source Codes\Atonix SRC\Atonix SRC\Atonix\obj\Debug\Atonix.Windows.General.resources
+C:\Users\ryans\Desktop\Atonix\Atonix Source Codes\Atonix SRC\Atonix SRC\Atonix\obj\Debug\Atonix.Windows.Monaco.resources
+C:\Users\ryans\Desktop\Atonix\Atonix Source Codes\Atonix SRC\Atonix SRC\Atonix\obj\Debug\Atonix.Windows.Other.resources
+C:\Users\ryans\Desktop\Atonix\Atonix Source Codes\Atonix SRC\Atonix SRC\Atonix\obj\Debug\Atonix.csproj.GenerateResource.cache
+C:\Users\ryans\Desktop\Atonix\Atonix Source Codes\Atonix SRC\Atonix SRC\Atonix\obj\Debug\Atonix.csproj.CoreCompileInputs.cache
+C:\Users\ryans\Desktop\Atonix\Atonix Source Codes\Atonix SRC\Atonix SRC\Atonix\obj\Debug\Atonix.csproj.Fody.CopyLocal.cache
+C:\Users\ryans\Desktop\Atonix\Atonix Source Codes\Atonix SRC\Atonix SRC\Atonix\obj\Debug\Atonix.csproj.Fody.RuntimeCopyLocal.cache
+C:\Users\ryans\Desktop\Atonix\Atonix Source Codes\Atonix SRC\Atonix SRC\Atonix\obj\Debug\Atonix.csproj.CopyComplete
+C:\Users\ryans\Desktop\Atonix\Atonix Source Codes\Atonix SRC\Atonix SRC\Atonix\obj\Debug\Atonix.exe
+C:\Users\ryans\Desktop\Atonix\Atonix Source Codes\Atonix SRC\Atonix SRC\Atonix\obj\Debug\Atonix.pdb
+C:\Users\Gebruiker\Desktop\Atonix Source Codes\Atonix SRC\Atonix SRC\Atonix\obj\Debug\Atonix.csproj.AssemblyReference.cache
+C:\Users\Gebruiker\Desktop\Atonix Source Codes\Atonix SRC\Atonix SRC\Atonix\obj\Debug\Atonix.Loader.resources
+C:\Users\Gebruiker\Desktop\Atonix Source Codes\Atonix SRC\Atonix SRC\Atonix\obj\Debug\Atonix.MainForm.resources
+C:\Users\Gebruiker\Desktop\Atonix Source Codes\Atonix SRC\Atonix SRC\Atonix\obj\Debug\Atonix.Notifications.Notification.resources
+C:\Users\Gebruiker\Desktop\Atonix Source Codes\Atonix SRC\Atonix SRC\Atonix\obj\Debug\Atonix.Properties.Resources.resources
+C:\Users\Gebruiker\Desktop\Atonix Source Codes\Atonix SRC\Atonix SRC\Atonix\obj\Debug\Atonix.ScriptHub.resources
+C:\Users\Gebruiker\Desktop\Atonix Source Codes\Atonix SRC\Atonix SRC\Atonix\obj\Debug\Atonix.SettingsForm.resources
+C:\Users\Gebruiker\Desktop\Atonix Source Codes\Atonix SRC\Atonix SRC\Atonix\obj\Debug\Atonix.Windows.APISettings.resources
+C:\Users\Gebruiker\Desktop\Atonix Source Codes\Atonix SRC\Atonix SRC\Atonix\obj\Debug\Atonix.Windows.General.resources
+C:\Users\Gebruiker\Desktop\Atonix Source Codes\Atonix SRC\Atonix SRC\Atonix\obj\Debug\Atonix.Windows.Monaco.resources
+C:\Users\Gebruiker\Desktop\Atonix Source Codes\Atonix SRC\Atonix SRC\Atonix\obj\Debug\Atonix.Windows.Other.resources
+C:\Users\Gebruiker\Desktop\Atonix Source Codes\Atonix SRC\Atonix SRC\Atonix\obj\Debug\Atonix.csproj.GenerateResource.cache
+C:\Users\Gebruiker\Desktop\Atonix Source Codes\Atonix SRC\Atonix SRC\Atonix\obj\Debug\Atonix.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\Desktop\Atonix Source Codes\Atonix SRC\Atonix SRC\Atonix\obj\Debug\Atonix.exe
+C:\Users\Gebruiker\Desktop\Atonix Source Codes\Atonix SRC\Atonix SRC\Atonix\obj\Debug\Atonix.pdb
+C:\Users\Gebruiker\Desktop\Atonix Source Codes\Atonix SRC\Atonix SRC\Atonix\bin\Debug\Atonix.exe.config
+C:\Users\Gebruiker\Desktop\Atonix Source Codes\Atonix SRC\Atonix SRC\Atonix\bin\Debug\Atonix.exe
+C:\Users\Gebruiker\Desktop\Atonix Source Codes\Atonix SRC\Atonix SRC\Atonix\bin\Debug\Atonix.pdb
+C:\Users\Gebruiker\Desktop\Atonix Source Codes\Atonix SRC\Atonix SRC\Atonix\bin\Debug\DiscordRPC.xml
+C:\Users\Gebruiker\Desktop\Atonix Source Codes\Atonix SRC\Atonix SRC\Atonix\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gebruiker\Desktop\Atonix Source Codes\Atonix SRC\Atonix SRC\Atonix\bin\Debug\System.Buffers.xml
+C:\Users\Gebruiker\Desktop\Atonix Source Codes\Atonix SRC\Atonix SRC\Atonix\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Gebruiker\Desktop\Atonix Source Codes\Atonix SRC\Atonix SRC\Atonix\bin\Debug\System.Memory.xml
+C:\Users\Gebruiker\Desktop\Atonix Source Codes\Atonix SRC\Atonix SRC\Atonix\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Gebruiker\Desktop\Atonix Source Codes\Atonix SRC\Atonix SRC\Atonix\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Gebruiker\Desktop\Atonix Source Codes\Atonix SRC\Atonix SRC\Atonix\obj\Debug\Atonix.csproj.Fody.CopyLocal.cache
+C:\Users\Gebruiker\Desktop\Atonix Source Codes\Atonix SRC\Atonix SRC\Atonix\obj\Debug\Atonix.csproj.Fody.RuntimeCopyLocal.cache
+C:\Users\Gebruiker\Desktop\Atonix Source Codes\Atonix SRC\Atonix SRC\Atonix\obj\Debug\Atonix.csproj.Up2Date
